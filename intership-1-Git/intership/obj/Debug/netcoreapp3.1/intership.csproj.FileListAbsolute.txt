@@ -1,0 +1,13 @@
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.exe
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.deps.json
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.runtimeconfig.json
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.dll
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\bin\Debug\netcoreapp3.1\intership.pdb
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.AssemblyInfo.cs
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.dll
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.pdb
+C:\Users\Lana\Desktop\Internship-1-Git\intership-1-Git\intership\obj\Debug\netcoreapp3.1\intership.genruntimeconfig.cache
